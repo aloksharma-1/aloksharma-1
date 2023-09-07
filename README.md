@@ -20,7 +20,7 @@ I'm a Software Developer Executive with a passion for all things Google Cloud �
 
 ## Cloud Certifications 🌟
 
-- Google Cloud Architect Program – Skillup Online (2023) [Certificate]([https://link-to-certificate](https://drive.google.com/file/d/1DSexPE64nQcmX7wb_CvqrANfHd3ORhDQ/view))
+- Google Cloud Architect Program – Skillup Online (2023) [Certificate]([https://drive.google.com/file/d/1DSexPE64nQcmX7wb_CvqrANfHd3ORhDQ/view])
 - Cloud Computing (Certificate) – NPTEL (2022) [Certificate](https://link-to-certificate)
 - Google Cloud Facilitator program (Authentication) – Qwikslab (2021) [Certificate](https://link-to-certificate)
 - Architecting with Google Compute Engine (Certificate) - COURSERA (2021) [Certificate](https://link-to-certificate)
