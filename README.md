@@ -28,7 +28,7 @@ I'm a Software Developer Executive with a passion for all things Google Cloud �
 
 ## Work Experience 💼
 
-### Allsoft Solution Pvt ltd (Aug 2022 – Present)
+### IBMX (Aug 2022 – Present)
 
 **Software Developer Executive**
 
